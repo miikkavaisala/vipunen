@@ -1,0 +1,116 @@
+# Keyword pre-filter for the simulation filter — recall-first:
+# over-accept and let the LLM resolve topicality on the shortlist.
+# Calibrated 2026-10-30 against all 268 trusted stored PASS verdicts:
+# 0 misses on astro-ph; 10 misses (3.7%) overall, all on cs.* pages and
+# all in the filter's broad-by-design over-accept class (ML/hardware
+# papers) — accepted loss.
+# Gate FAILs are recomputed live and never cached, so editing this list
+# never invalidates stored LLM verdicts.
+
+simulation
+simulate
+simulated
+simulating
+simulat
+numerical
+numerically
+solver
+emulat
+surrogate
+world model
+synthetic
+digital twin
+mcmc
+monte carlo
+monte-carlo
+hydrodynam
+mhd
+n-body
+nbody
+smoothed particle
+radiative transfer
+radiation hydro
+gadget
+arepo
+athena
+ramses
+enzo
+amr
+particle-in-cell
+vlasov
+boltzmann
+fluid dynamics
+cfd
+molecular dynamics
+lattice boltzmann
+vortex
+turbulence
+subgrid
+sub-grid
+sink particle
+zoom-in
+zoom in
+cosmological simulation
+pde
+differential equation
+discretization
+integrator
+spectral method
+finite difference
+finite element
+finite volume
+numerical relativity
+reconnection
+jeans
+instability
+supernova
+white dwarf
+magnetar
+gravitational wave
+axion
+scattering
+compton
+teukolsky
+hardware
+accelerator
+gemm
+fp-int
+quantization
+inverse problem
+forward problem
+automatic differentiation
+adjoint
+decay rate
+ray tracing
+rendering
+gaussian splatting
+nerf
+diffusion
+flow matching
+flow policy
+reinforcement learning
+training
+optimization
+optimizer
+superradiant
+laplace
+celestial mechanics
+perturbation
+reconstruction
+wasserstein
+stein
+central limit
+hyperbolic
+stochastic stability
+equilibrium
+softened
+graviton
+agn
+dwarf
+magnetic activity
+superposition
+spectral morphology
+foundation model
+tabular
+contamination
+gothic

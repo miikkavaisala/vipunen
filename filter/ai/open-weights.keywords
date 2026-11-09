@@ -1,0 +1,26 @@
+# Keyword pre-filter for the open-weights filter — recall-first:
+# over-accept and let the LLM resolve topicality on the shortlist.
+# Named open-weight families and explicit openness wording; the filter's
+# criteria still demands the abstract to name or declare the models.
+open-weight
+open weight
+open weights
+open-source model
+open source model
+open model
+openly
+publicly
+hugging face
+huggingface
+llama
+qwen
+mistral
+gemma
+phi-
+deepseek
+olmo
+falcon
+pythia
+bloom
+smollm
+stablelm

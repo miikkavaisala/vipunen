@@ -1,0 +1,103 @@
+# Keyword pre-filter for the observational filter — recall-first:
+# over-accept and let the LLM resolve topicality on the shortlist.
+# Calibrated 2026-10-30 against all 247 trusted stored PASS verdicts:
+# 0 misses (0.0%). Wide on astro-ph (92% survivors) by nature; its value
+# is on cs/math pages (31-64% survivors), where it finds observational
+# papers. Gate FAILs are recomputed live and never cached, so editing
+# this list never invalidates stored LLM verdicts.
+# Calibration record: 2026-10-30 methodology keyword-gate run.
+
+observation
+observational
+observed
+observing
+telescope
+satellite
+survey
+imaging
+photometr
+spectroscop
+spectra
+spectrum
+timing
+catalog
+catalogue
+light curve
+lightcurve
+data release
+jwst
+hubble
+alma
+vla
+chandra
+xmm
+spitzer
+gaia
+tess
+lsst
+desi
+sdss
+2mass
+wise
+herschel
+planck
+fermi
+ixpe
+nicer
+we present observation
+we observed
+we measure
+photometry
+color-magnitude
+colour-magnitude
+color index
+magnitude
+redshift
+spectral energy distribution
+polarimetr
+astrometr
+proper motion
+variable
+transit
+eclipse
+occultation
+lensing
+counterpart
+afterglow
+host galaxy
+spectral line
+emission line
+absorption line
+radial velocity
+periodogram
+time series
+x-ray
+gamma-ray
+radio
+infrared
+optical
+ultraviolet
+submillimeter
+multiwavelength
+multi-wavelength
+image
+pixel
+seeing
+psf
+deep field
+exposure
+detector
+instrument
+calibration
+data analysis
+we analyze
+we analyse
+archival
+archive data
+census
+astrochem
+dwarf
+correlation
+column densities
+member galaxies
+vpos

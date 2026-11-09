@@ -1,0 +1,5 @@
+the paper is theoretical or computational in focus — its main contribution is new
+theory, analytical or numerical modeling, computational methods, or simulations, and NOT
+the presentation or interpretation of observational data. Observational papers that use
+theoretical models or interpretations to explain their measurements do NOT count;
+fitting or comparing models to observational data does NOT count

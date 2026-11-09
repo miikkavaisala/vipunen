@@ -1,0 +1,41 @@
+# Keyword pre-filter for the ai-for-physical-science filter — recall-first:
+# over-accept and let the LLM resolve topicality on the shortlist.
+# Physical/natural sciences only: bio/medical vocabulary deliberately
+# absent — the criteria exclude living-systems research.
+physics-informed
+scientific machine learning
+ai for science
+ai4science
+science
+physics
+chemistry
+chemical
+molecular dynamics
+molecular
+molecule
+crystal
+materials
+quantum chemistry
+quantum many-body
+density functional
+climate
+weather
+seismic
+geoscience
+geophys
+astrophys
+astronom
+planetary
+space weather
+cosmic
+atmosphere
+ocean
+hydrolog
+environmental
+remote sensing
+earth
+plasma
+turbulence
+pde
+differential equation
+fluid

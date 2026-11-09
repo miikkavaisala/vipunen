@@ -1,0 +1,179 @@
+# Keyword pre-filter for the theory filter — recall-first:
+# over-accept and let the LLM resolve topicality on the shortlist.
+# Calibrated 2026-10-30 against all 201 trusted stored PASS verdicts:
+# 0 misses (0.0%). The funnel is inherently wide on astro-ph (91%
+# survivors — most astro-ph papers are theoretical/computational) and
+# tighter on cs/math pages. Gate FAILs are recomputed live and never
+# cached, so editing this list never invalidates stored LLM verdicts.
+# Calibration record: 2026-10-30 methodology keyword-gate run.
+
+simulation
+simulate
+simulated
+simulating
+simulat
+numerical
+numerically
+solver
+emulat
+surrogate
+world model
+synthetic
+digital twin
+mcmc
+monte carlo
+monte-carlo
+hydrodynam
+mhd
+n-body
+nbody
+smoothed particle
+radiative transfer
+radiation hydro
+gadget
+arepo
+athena
+ramses
+enzo
+amr
+particle-in-cell
+vlasov
+boltzmann
+fluid dynamics
+cfd
+molecular dynamics
+lattice boltzmann
+vortex
+turbulence
+subgrid
+sub-grid
+sink particle
+zoom-in
+zoom in
+cosmological simulation
+pde
+differential equation
+discretization
+integrator
+spectral method
+finite difference
+finite element
+finite volume
+numerical relativity
+reconnection
+jeans
+instability
+supernova
+white dwarf
+magnetar
+gravitational wave
+axion
+scattering
+compton
+teukolsky
+hardware
+accelerator
+gemm
+fp-int
+quantization
+inverse problem
+forward problem
+automatic differentiation
+adjoint
+decay rate
+ray tracing
+rendering
+gaussian splatting
+nerf
+diffusion
+flow matching
+flow policy
+reinforcement learning
+training
+optimization
+optimizer
+theory
+theoretical
+analytical
+analytic
+derivation
+derive
+derived
+proof
+prove
+theorem
+lemma
+corollary
+proposition
+closed-form
+closed form
+semi-analytical
+semianalytical
+perturbation
+effective field theory
+eft
+hamiltonian
+lagrangian
+field theory
+computational method
+algorithm
+scaling law
+scaling relation
+analytical model
+toy model
+toy-model
+we derive
+we prove
+exact solution
+green's function
+greens function
+fourier
+eigenvalue
+eigenfunction
+likelihood
+statistical mechanics
+phase transition
+renormalization
+conformal
+topological
+stochastic process
+markov
+master equation
+fokker
+langevin
+kinetic theory
+ice sheet
+climate
+atmosphere
+impact
+ejecta
+dust
+snow line
+outgassing
+ocean
+antineutrino
+progenitor
+cosmology
+dark matter
+dark energy
+inflation
+baryogenesis
+black hole
+neutron star
+equation of state
+nucleosynthesis
+particle
+collider
+quantum
+neural network
+gaussian process
+forecast
+metacalibration
+mass-transfer
+mass transfer
+binary
+compact companion
+x-ray source
+foundation model
+tabular
+contamination

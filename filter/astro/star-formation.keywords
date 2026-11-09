@@ -1,0 +1,20 @@
+# Keyword pre-filter for the star-formation filter — recall-first:
+# over-accept and let the LLM resolve topicality on the shortlist.
+star formation
+star-forming
+molecular cloud
+protostar
+protostellar
+prestellar
+young stellar object
+protoplanetary
+circumstellar disk
+circumstellar disc
+initial mass function
+imf
+young cluster
+pre-main-sequence
+pre-main sequence
+hii region
+filament
+nebula

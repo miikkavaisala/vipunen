@@ -1,0 +1,6 @@
+the paper involves CUDA — GPU programming, CUDA kernels, CUDA-accelerated
+implementations, or GPU computing optimization as a significant part of the work, where
+the paper itself develops, optimizes, or directly studies the GPU implementation. Merely
+running code on a GPU does NOT count. Benchmarking or timing code, models, applications,
+or hardware on GPUs does NOT count. Scheduling, allocating, or orchestrating GPU
+resources — clusters, serverless GPUs — does NOT count

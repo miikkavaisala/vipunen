@@ -1,0 +1,10 @@
+the paper uses or studies open-weight models — AI models whose trained weights are
+publicly downloadable — as a significant part of the work: releasing a new open-weight
+model, fine-tuning, training, evaluating, or comparing open-weight models, or studying
+open versus closed/proprietary model differences. The abstract must either name specific
+open-weight models (e.g. Llama, Qwen, Mistral, Gemma, Phi, DeepSeek, OLMo) or explicitly
+call its models open-weight or open-source. Papers that only mention LLMs, language
+models, or models in general without naming or declaring them open do NOT count — do not
+guess or assume that an unnamed model is open; papers whose model use is exclusively
+proprietary API models (GPT, Claude, Gemini) do NOT count; papers not involving trained
+AI models at all do NOT count

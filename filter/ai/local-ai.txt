@@ -1,0 +1,9 @@
+the paper is about running large AI models on locally accessible hardware — the full
+range from small devices to home computers to GPU rigs to lab-scale clusters: on-device
+or edge inference, laptops, desktops, workstations, home servers, single GPUs, and at
+the most generous a handful of multi-GPU nodes such as a university or research lab
+might host. Also counts: quantization and memory optimization for such hardware, local
+LLM serving, or small-model efficiency for local deployment. What matters is that the
+target hardware is self-contained and personally or institutionally accessible (owned or
+on-premise), not rented. Hyperscale cloud, datacenter-scale deployments beyond lab
+scale, and purely algorithmic work with no deployment-hardware angle do NOT count

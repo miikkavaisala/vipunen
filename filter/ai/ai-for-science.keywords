@@ -1,0 +1,34 @@
+# Keyword pre-filter for the ai-for-science filter — recall-first:
+# over-accept and let the LLM resolve topicality on the shortlist.
+physics-informed
+scientific machine learning
+ai for science
+ai4science
+science
+physics
+chemistry
+chemical
+molecular
+molecule
+protein
+drug
+crystal
+materials
+quantum chemistry
+quantum many-body
+density functional
+climate
+weather
+seismic
+geoscience
+genomic
+clinical
+medical imaging
+biomedical
+pde
+differential equation
+fluid
+turbulence
+astrophys
+astronom
+geophys

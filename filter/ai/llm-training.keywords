@@ -1,0 +1,20 @@
+# Keyword pre-filter for the llm-training filter — recall-first:
+# over-accept and let the LLM resolve topicality on the shortlist.
+pretraining
+pre-training
+pretrain
+fine-tuning
+fine tuning
+finetuning
+instruction tuning
+rlhf
+reinforcement learning from human feedback
+dpo
+direct preference optimization
+distillation
+supervised fine-tuning
+sft
+continued pretraining
+post-training
+posttraining
+lora

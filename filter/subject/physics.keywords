@@ -1,0 +1,47 @@
+# Keyword pre-filter for the physics filter — recall-first: over-accept
+# and let the LLM resolve topicality on the shortlist.
+physic
+quantum
+particle
+relativ
+gravitat
+thermodyn
+entrop
+condensed matter
+photon
+laser
+optic
+electromagnet
+magnet
+plasma
+cosmolog
+astrophys
+spacetime
+field theory
+standard model
+scattering
+nucleus
+nuclear
+quark
+boson
+fermion
+solid state
+superconduct
+crystal
+material
+fluid
+turbulenc
+spin
+vibrat
+spectroscop
+dynamical system
+differential equation
+mechanic
+wave
+energ
+molecular dynamics
+planetary
+seismolog
+earthquake
+qubit
+boltzmann

@@ -1,0 +1,11 @@
+the paper's subject is star formation — the ecosystem that turns gas into stars:
+star-forming regions and young stellar objects, molecular clouds, filaments, and
+prestellar cores as star-formation cradles, protostars and protostellar jets or
+outflows, young protoplanetary disks and their formation and early evolution, young star
+clusters and their census, the initial mass function, high-mass star formation, and
+star-formation rates, histories, efficiencies, laws, or quenching as the subject of the
+work. Observational studies, surveys, chemistry, and simulations of these all count. A
+paper where the star formation rate or history is merely measured, cited, or used as
+context for another question does NOT count; supernovae, gamma-ray and dark-matter
+studies, astrochemistry without a star-formation context, evolved stars and planetary
+nebulae, planet formation in mature or debris disks, and exoplanets do NOT count

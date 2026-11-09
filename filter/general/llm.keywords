@@ -1,0 +1,94 @@
+# Keyword pre-filter for the llm filter — recall-first:
+# over-accept and let the LLM resolve topicality on the shortlist.
+# Calibrated 2026-10-30 against all 3131 trusted stored PASS verdicts:
+# 7 misses (0.22%), accepted minority loss. Gate FAILs are recomputed live and never
+# cached, so editing this list never invalidates stored LLM verdicts.
+
+# core LLM vocabulary
+language model
+llm
+large language
+transformer
+gpt
+llama
+bert
+claude
+mistral
+qwen
+gemini
+deepseek
+nlp
+natural language
+chatbot
+language modeling
+text generation
+text model
+text-to-text
+seq2seq
+dialogue
+assistant
+conversational
+speech
+speech-language
+machine translation
+translation
+languages
+tokenizer
+token
+
+# training / tuning paradigms
+pre-train
+pretrain
+fine-tun
+finetun
+prompt
+in-context
+chain-of-thought
+chain of thought
+instruction-tun
+rlhf
+sft
+rollout
+reward model
+process reward
+preference optimization
+rubric
+kv cache
+kv-cache
+test-time
+reasoning
+distillation
+mixture-of-experts
+moe
+router
+selective decoding
+
+# architectures
+autoregressive
+next-token
+next token
+masked language
+decoder-only
+encoder-decoder
+multimodal
+vision-language
+vlm
+vla
+vision-language-action
+
+# where LLMs hide without the words "language model": agents, coding,
+# formalization, robotics, safety
+agent
+coder
+coding
+formaliz
+robot
+manipulation
+verifier
+safety
+jailbreak
+red-team
+red team
+report generation
+language agent
+language grounding

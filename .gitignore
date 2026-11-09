@@ -1,0 +1,11 @@
+# raw RSS snapshots are data, not code
+data/
+
+# tar.gz data backups stay out of git too
+backups/
+
+# uv virtual environment
+.venv/
+
+__pycache__/
+*.pyc

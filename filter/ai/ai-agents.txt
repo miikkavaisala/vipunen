@@ -1,0 +1,7 @@
+the paper is about designing, building, or evaluating AI agents — autonomous
+LLM-driven agents, tool use, planning, multi-agent systems, agent architectures or agent
+benchmarks — and the agent itself is the subject of the study. A single ordinary LLM query
+does NOT count. An agent loop used merely as an evaluation harness, or as one component
+inside a paper whose subject is something else, does NOT count. Model-architecture work —
+world models, VLA or memory modules, distillation — that merely serves planning or uses
+agent vocabulary without studying agents does NOT count

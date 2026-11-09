@@ -1,0 +1,45 @@
+# Keyword pre-filter for the local-ai filter — recall-first: over-accept
+# and let the LLM resolve topicality on the shortlist.
+local inference
+local deployment
+locally
+self-hosted
+self hosted
+in-house
+in house
+on-premise
+on-premises
+one gpu
+on-device
+on device
+edge device
+edge inference
+laptop
+desktop
+workstation
+home server
+single gpu
+consumer gpu
+consumer-grade
+consumer hardware
+quantiz
+quantization
+quantized
+kv cache
+memory footprint
+gpu memory
+offloading
+llama.cpp
+vram
+raspberry pi
+jetson
+small language model
+small model
+speculative decoding
+fpga
+cpu
+efficient
+efficiency
+pruning
+distillation
+edge

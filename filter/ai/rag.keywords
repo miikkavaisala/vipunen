@@ -1,0 +1,12 @@
+# Keyword pre-filter for the rag filter — recall-first: over-accept
+# and let the LLM resolve topicality on the shortlist.
+retrieval-augmented
+retrieval augmented
+retrieval augmentation
+rag
+vector search
+dense retrieval
+embedding retrieval
+knowledge-grounded
+retrieval pipeline
+retriever

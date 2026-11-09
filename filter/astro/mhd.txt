@@ -1,0 +1,8 @@
+the paper involves magnetohydrodynamics (MHD) as a significant part of the work — the
+abstract must itself evidence the MHD machinery: running, developing, or analyzing MHD
+simulations (including relativistic, radiative, or general-relativistic MHD), MHD theory
+or modeling of turbulence, reconnection, dynamos, or outflows, or an explicitly named
+MHD model or code. A mere passing mention of magnetic fields does NOT count; describing
+an object as magnetized, or interpreting observations via magnetic fields or
+magnetospheres, without MHD machinery does NOT count; potential-field or
+magnetic-field-line models without MHD dynamics do NOT count

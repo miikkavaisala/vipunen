@@ -1,0 +1,38 @@
+# Keyword pre-filter for the astronomy filter — recall-first: over-accept
+# and let the LLM resolve topicality on the shortlist. Astronomy
+# vocabulary is distinctive on method-focused (cs) pages; on astro-ph
+# nearly everything hits, so the list is harmless there.
+astronom
+astrophys
+cosmolog
+cosmic
+galax
+stellar
+stars
+star formation
+star-forming
+planet
+exoplanet
+moon
+lunar
+asteroid
+comet
+supernova
+nebula
+quasar
+pulsar
+black hole
+dark matter
+gravitational wave
+gravitational-wave
+telescope
+interstellar
+intergalactic
+milky way
+solar
+sun
+celestial
+sky
+light curve
+redshift
+universe

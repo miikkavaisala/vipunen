@@ -1,0 +1,7 @@
+# Keyword pre-filter for the cuda filter — recall-first: over-accept
+# and let the LLM resolve topicality on the shortlist.
+cuda
+gpu
+nvidia
+kernel
+tensor core

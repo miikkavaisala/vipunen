@@ -1,0 +1,6 @@
+the paper involves X-ray astronomy as a significant part of the work — observations with
+X-ray telescopes or instruments (Chandra, XMM-Newton, NuSTAR, Swift/XRT, eROSITA,
+Einstein Probe), analysis of X-ray data or spectra of astronomical objects, or modeling
+of astrophysical X-ray emission. X-rays appearing only in a list of many wavelengths do
+NOT count; X-ray imaging of laboratory samples, crystallography, or medical X-rays do
+NOT count

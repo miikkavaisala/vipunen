@@ -1,0 +1,5 @@
+the paper is based on astronomical observations — it analyzes observational data from
+telescopes, satellites, or surveys (imaging, photometry, spectroscopy, timing, or
+observational catalogs) of astronomical objects. Pure theory or simulation papers do NOT
+count; instrument or detector development without observational data analysis does NOT
+count

@@ -1,0 +1,19 @@
+# Keyword pre-filter for the ai-agents filter — recall-first: over-accept
+# and let the LLM resolve topicality on the shortlist.
+agent
+agentic
+multi-agent
+tool use
+tool-use
+tool calling
+function calling
+planning
+autonomous
+robot
+robotic
+vla
+vision-language-action
+embodied
+assistant
+chatbot
+copilot

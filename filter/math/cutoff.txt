@@ -1,0 +1,11 @@
+the paper is about the cutoff phenomenon in stochastic dynamics: the abrupt transition
+of a Markov chain or stochastic process to equilibrium as time or system size grows. The
+paper's subject must be mixing times or cutoff itself: proving or disproving cutoff for
+specific chains (random walks on groups or graphs, card shuffling, exclusion or Glauber
+dynamics, spin systems), general cutoff criteria (product chains, comparison, spectral
+approaches), cutoff windows and profiles, pre-cutoff behavior, relaxation versus mixing,
+or statistical detection of cutoff from sample trajectories. Merely using or mentioning
+Markov chains, mixing, stationarity, or stochastic dynamics does NOT count when cutoff
+or sharp mixing behavior is not a subject of the work. Other meanings of the word do NOT
+count: a UV, momentum, or lattice cutoff in physics, truncation or regularization
+parameters, dataset or knowledge cutoffs, cutoff frequencies or scales

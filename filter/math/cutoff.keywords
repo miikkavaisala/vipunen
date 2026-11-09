@@ -1,0 +1,12 @@
+# Keyword pre-filter for the cutoff filter — recall-first: over-accept
+# and let the LLM resolve topicality on the shortlist.
+cutoff
+cut-off
+mixing time
+markov chain
+glauber
+exclusion process
+card shuffling
+shuffling
+relaxation time
+random walk

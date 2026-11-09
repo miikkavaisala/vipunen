@@ -1,0 +1,12 @@
+# Keyword pre-filter for the mhd filter — recall-first: over-accept and
+# let the LLM resolve topicality on the shortlist.
+magnetohydrodynamic
+mhd
+dynamo
+reconnection
+alfven
+alfvén
+plasma
+magnetic field
+magnetized
+magnetised

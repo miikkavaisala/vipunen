@@ -1,0 +1,43 @@
+# RSS feeds to download daily, independent of any analysis.
+#
+# Each name is an ArXiv archive or category, fetched from
+# https://export.arxiv.org/rss/<name>. Fetches are cache-first: a feed
+# already stored for today is served from disk and costs no request, so
+# it is safe (and encouraged) to run this repeatedly:
+#
+#     uv run python src/fetch_feeds.py
+#
+# Data lands in data/rss/ (raw XML) and data/papers/ (parsed JSON) and is
+# never deleted. Do not run this concurrently with the main pipeline —
+# the request throttle is per process.
+
+archives = [
+    # astrophysics
+    "astro-ph",
+
+    # AI / LLMs / agents
+    "cs.AI",    # artificial intelligence (broad)
+    "cs.CL",    # computation and language — LLM papers
+    "cs.LG",    # machine learning
+    "cs.NE",    # neural and evolutionary computing
+    "cs.MA",    # multiagent systems — AI agents
+
+    # image generation / vision
+    "cs.CV",    # computer vision — generative image models
+    "cs.GR",    # graphics
+    # "eess.IV", # image processing — uncomment for the signals side
+
+    # HPC / GPU computing / numerical methods
+    "cs.DC",    # distributed, parallel & cluster computing — HPC, CUDA/HIP
+    "cs.AR",    # hardware architecture — GPUs, accelerators
+    "cs.PF",    # performance
+    "cs.MS",    # mathematical software — numerical libraries
+
+    # mathematics
+    "math.PR",  # probability
+    "math.ST",  # statistics theory
+    "math.CO",  # combinatorics
+    "math.NA",  # numerical analysis
+    "math.IT",  # information theory (cross-listed with cs.IT)
+    # "math.AP", # PDEs / analysis — uncomment if wanted
+]

@@ -1,0 +1,10 @@
+the paper's subject matter is physics — its models, methods, or data concern physical
+systems or phenomena and the work studies them: astrophysics, condensed matter, quantum
+systems, optics and photonics, fluid dynamics, plasmas, particle or nuclear physics,
+biophysics, geophysics, climate, or other physics subfields. ML or simulation methods
+applied to an actual physical system (physics-informed networks, quantum-state modeling,
+molecular or atomistic simulation) count. Physics-inspired or physics-analogy AI methods
+without a physical system under study (e.g. physics-inspired optimizers) do NOT count;
+generic AI/ML and statistics papers do NOT count; pure mathematics, chemistry, biology,
+medicine, finance, and social science do NOT count; applied engineering (power-grid or
+load forecasting, circuits, manufacturing) does NOT count

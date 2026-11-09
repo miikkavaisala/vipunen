@@ -1,0 +1,11 @@
+# Keyword pre-filter for the x-ray filter — recall-first: over-accept
+# and let the LLM resolve topicality on the shortlist.
+x-ray
+x ray
+chandra
+xmm
+nustar
+erosita
+einstein probe
+swift
+xrt

@@ -1,0 +1,8 @@
+the study itself uses a large language model — a transformer-based text-generation model
+such as GPT, Llama, Claude, or a multimodal LLM — as a significant part of its
+methodology. Ordinary neural networks (CNNs, U-Nets, classic machine learning) and
+multi-sensor or multi-wavelength data do NOT count. Transformer-based models for
+non-language data — weather fields, physical simulations, images, molecules, PDE
+trajectories, tabular data — do NOT count unless they process or generate natural
+language text; being "transformer-based" or a "foundation model" alone does NOT make
+a model a language model

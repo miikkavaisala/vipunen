@@ -1,0 +1,4 @@
+the paper involves retrieval-augmented generation (RAG) — retrieval pipelines feeding
+context to a language model, vector search or embedding-based retrieval, or
+knowledge-grounded generation. RAG must be a significant part of the work, not a passing
+mention
